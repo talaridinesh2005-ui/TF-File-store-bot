@@ -17,7 +17,7 @@ DB_NAME = os.environ.get("DB_NAME", "tdanimehub")
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003030307131"))
 
-FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1002497059972))
+FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1002497059972"))
 
 FORCE_SUB_CHANNEL_2 = int(os.environ.get("FORCE_SUB_CHANNEL_2", "0"))
 
