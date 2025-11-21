@@ -104,7 +104,7 @@ class Txt(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/tech_freak_tamil'>TFT BOTS</a>
+<b>📢 Channel :</b> <a href='https://t.me/Team_TD_Links'>TFT BOTS</a>
 <b>🛡️ :</b> <a href='https://t.me/+NITVxLchQhYzNGZl'>TFT Developer</a>
     
 <b>😈 Bot Made By :</b> @Team_TD_Links"""
